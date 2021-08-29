@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Manually added
+**/.DS_Store
+weight/clip_model_cpu.pt
