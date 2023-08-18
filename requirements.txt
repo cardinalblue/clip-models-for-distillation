@@ -1,4 +1,4 @@
-certifi==2021.5.30
+certifi>=2023.7.22
 ftfy==6.0.3
 numpy==1.21.2
 Pillow==8.3.1
